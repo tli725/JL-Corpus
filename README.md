@@ -5,7 +5,7 @@ Please use the corpus for emotional speech related studies. When you use it plea
 
 Jesin James, Li Tian, Catherine Watson,  "An Open Source Emotional Speech Corpus for Human Robot Interaction Applications", in Proc. Interspeech, 2018.
 
-To access the raw corpus (audio+txt), click the following link: https://www.kaggle.com/tli725/jl-corpus, or if you have already installed the Kaggle API, you can type the following command to install: kaggle datasets download -d tli725/jl-corpus 
+To access the raw corpus (audio+txt), click the following link: https://www.kaggle.com/tli725/jl-corpus, or if you have already installed the Kaggle API, you can type the following command to install:  kaggle datasets download -d tli725/jl-corpus 
 
 The corpus was evaluated by a large scale human perception test with 120 participants. The link to the survey are here-
 For Primary emorion corpus:
