@@ -15,3 +15,5 @@ For Secondary emotion corpus:
 https://auckland.au1.qualtrics.com/jfe/form/SV_eVDINp8WkKpsPsh
 
 These surveys will give an overall idea about the type of recordings in the corpus.
+
+The perceptually verified and annotated JL corpus will be given public access soon.
