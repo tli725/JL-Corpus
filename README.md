@@ -6,8 +6,7 @@ Please use the corpus for emotional speech related studies. When you use it plea
 Jesin James, Li Tian, Catherine Watson,  "An Open Source Emotional Speech Corpus for Human Robot Interaction Applications", in Proc. Interspeech, 2018.
 
 To access the whole corpus including the recording supporting files, click the following link: 
-https://www.kaggle.com/tli725/jl-corpus,  
-(if you have already installed the Kaggle API, you can type the following command to download:  kaggle datasets download -d tli725/jl-corpus) 
+https://www.kaggle.com/tli725/jl-corpus,  (if you have already installed the Kaggle API, you can type the following command to download:  kaggle datasets download -d tli725/jl-corpus) 
 
 Or if you simply want the raw audio+txt files, click the following link: 
 https://www.kaggle.com/tli725/jl-corpus/downloads/Raw%20JL%20corpus%20(unchecked%20and%20unannotated).zip/1
