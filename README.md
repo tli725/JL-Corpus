@@ -9,7 +9,7 @@ To access the whole corpus including the recording supporting files, click the f
 https://www.kaggle.com/tli725/jl-corpus,  (if you have already installed the Kaggle API, you can type the following command to download:  kaggle datasets download -d tli725/jl-corpus) 
 
 Or if you simply want the raw audio+txt files, click the following link: 
-https://www.kaggle.com/tli725/jl-corpus/downloads/Raw%20JL%20corpus%20(unchecked%20and%20unannotated).zip/1
+https://www.kaggle.com/tli725/jl-corpus/downloads/Raw%20JL%20corpus%20(unchecked%20and%20unannotated).rar/4
 
 The corpus was evaluated by a large scale human perception test with 120 participants. The link to the survey are here-
 For Primary emorion corpus:
